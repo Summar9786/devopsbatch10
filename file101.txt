@@ -2,3 +2,6 @@ this is file 10 devop batch10
 add course redhat
 add course vmware
 add course cisco
+add course line 6redhat
+add course line 7vmware
+add course line 8cisco
