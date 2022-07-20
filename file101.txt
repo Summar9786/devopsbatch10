@@ -5,3 +5,6 @@ add course cisco
 add course line 6redhat
 add course line 7vmware
 add course line 8cisco
+add course line 10 redhat
+add course line 11 vmware
+add course line 12 cisco
